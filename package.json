@@ -1,0 +1,22 @@
+{
+  "name": "jest-rpg",
+  "version": "1.0.0",
+  "description": "CLI game where user plays as a knight to fight off a horde of mighty goblins!     Beware Enter at your own peril!",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrandonDaws/FightKnight.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrandonDaws/FightKnight/issues"
+  },
+  "homepage": "https://github.com/BrandonDaws/FightKnight#readme",
+  "devDependencies": {
+    "jest": "^28.0.1"
+  }
+}
