@@ -30,7 +30,7 @@ test('gets players stats as an object', () => {
 
     expect(player.getStats()).toHaveProperty('strength');
 
-    expect(player.getStats()).toHaveProperty('agaility');
+    expect(player.getStats()).toHaveProperty('agility');
 });
 
 test('gets inventory from player or returns false', () => {
