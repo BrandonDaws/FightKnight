@@ -1,6 +1,6 @@
 const Potion = require('../lib/potion.js');
 
-test('creates a healt potion', () => {
+test('creates a health potion', () => {
     const potion = new Potion('health');
 
     expect(potion.name).toBe('health')
